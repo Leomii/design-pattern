@@ -1,6 +1,4 @@
 # 声明
-
-资源来自于：[runoob.com/](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 JDK：1.8.0_161
 
 # 目录结构

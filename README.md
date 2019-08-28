@@ -1,9 +1,6 @@
 # 声明
 
 资源来自于：[runoob.com/](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
-
-开发工具：IntellJ IDEA ULTIMATE 2019.1
-
 JDK：1.8.0_161
 
 # 目录结构
